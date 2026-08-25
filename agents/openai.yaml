@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mathematical Research"
+  short_description: "Formulate, refute, prove, and verify math claims"
+  default_prompt: "Use $mathematical-research to investigate this mathematical problem rigorously. Audit the definitions and quantifiers, search for counterexamples before committing to a proof, distinguish experiments from proofs, and give an exact final status."
+
+policy:
+  allow_implicit_invocation: true
